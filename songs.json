@@ -1,0 +1,19 @@
+{
+  
+    "songs": [
+      {
+        "title": "Song 1",
+        "artist": "Artist 1",
+        "img_src": "1.jpg",
+        "src": "1.mp3"
+      },
+      {
+        "title": "Song 2",
+        "artist": "Artist 2",
+        "img_src": "2.jpg",
+        "src": "2.mp3"
+      }
+    ]
+  }
+  
+ 
